@@ -110,6 +110,7 @@ This project analyzed road accident data to identify high-risk areas, contributi
 **Date: Worked on in 2023, Published October 2024**
 
 **Project Overview**
+https://docs.google.com/presentation/d/1jfCHfb8cYUvpuVohWhWk_L4bg-DvcNdex8nlD7ChumA/edit?usp=sharing 
 
 This project enhanced the business strategy for Sprocket Central Pty Ltd by analyzing customer datasets to optimize engagement and drive value. The analysis combined data modeling with clear visual storytelling to deliver actionable recommendations that informed marketing, sales, and product strategies.
 
@@ -150,6 +151,7 @@ This project enhanced the business strategy for Sprocket Central Pty Ltd by anal
 **Date: Worked on in 2023, Published October 2024**
 
 **Project Overview**
+https://docs.google.com/presentation/d/1yswt1zBfXHGtUGuYgQ1zDic5Ik_mTb6fcV5uuqM_gVc/edit?usp=sharing
 
 This project applied data analytics and business storytelling to evaluate social media engagement patterns and guide strategy. Over 36 million content pieces per year were analyzed to uncover top-performing categories, optimize engagement, and deliver actionable recommendations for non-technical stakeholders through PowerPoint presentations.
 
