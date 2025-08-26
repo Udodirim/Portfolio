@@ -6,7 +6,7 @@ Welcome to my Data Science Portfolio — a collection of projects across NLP, fo
 
 **Technical**
 
-- Languages & Tools: Python, SQL, Tableau, Power BI, Excel, Streamlit, Canva, SQLite
+- Languages & Tools: Python, SQL, Tableau, Excel, Streamlit, Canva, SQLite
 - Libraries & Frameworks: TensorFlow, Scikit-learn, OpenCV, SARIMAX, Prophet, Naive Bayes, OpenAI GPT-3.5
 - Techniques: Regression, Time Series Forecasting, Classification, Natural Language Processing (NLP), Named Entity Recognition (NER), Summarization, Computer Vision (CNN), Data Cleaning, ETL, Segmentation, Dashboarding, Forecasting
 
