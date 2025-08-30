@@ -181,3 +181,9 @@ This project applied data analytics and business storytelling to evaluate social
 
 <img width="740" height="418" alt="image" src="https://github.com/user-attachments/assets/35062231-7d49-466c-a2ad-53a4a88275ff" />
 
+
+
+
+*Please note that the portfolios and projects uploaded to GitHub are for educational and demonstration purposes only. They showcase my skills and approach.*
+
+Author: Udodirim Kelechi Nwosu
