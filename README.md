@@ -1,49 +1,34 @@
 # Portfolio
 
-Welcome to my Portfolio — a collection of projects across NLP, forecasting, computer vision, and applied analytics.
-
-# Skills
-
-**Technical**
-
-- Languages & Tools: Python, SQL, Tableau, Excel, Streamlit, Canva, SQLite
-- Libraries & Frameworks: TensorFlow, Scikit-learn, OpenCV, SARIMAX, Prophet, Naive Bayes, OpenAI GPT-3.5
-- Techniques: Regression, Time Series Forecasting, Classification, Natural Language Processing (NLP), Named Entity Recognition (NER), Summarization, Computer Vision (CNN), Data Cleaning, ETL, Segmentation, Dashboarding, Forecasting
-
-
-**Soft Skills**
-
-- Strategic Thinking: Analytical Problem-Solving, Decision-Making, Attention to Detail
-- Collaboration & Leadership: Teamwork, Stakeholder Engagement, Communication
-- Adaptability & Efficiency: Time Management, Organisational Skills, Growth Mindset
-
-**Education**
-MSc, Applied Artificial Intelligence & Data Science
-
-# Work Experience
-**Data Analyst | KC Nation (Jan 2024 – Mar 2024)**
-- Produced dynamic insight decks in Excel, Tableau, and PowerPoint, supporting funding proposals and programme decisions for single mothers and children.
-- Analyzed structured surveys, cleaned/segmented data, and performed frequency & distribution analysis.
-- Delivered insights tailored for both technical and non-technical stakeholders.
-
-**Data Analytics & Visualization Intern | Forage (Virtual) (Jul 2023 – Sep 2023)**
-- Developed interactive Excel and Power BI dashboards visualizing customer segments, engagement periods, and content trends.
-- Cleaned and structured demographic, transaction, and social media datasets.
-- Communicated insights effectively through dashboards and presentations.
-
-**Data Science Intern | Solent University (Aug 2022 – May 2023)**
-- Designed interactive Power BI dashboards, translating complex survey + sentiment analysis into clear insights.
-- Processed survey datasets with Google Sheets & Python (pandas, NumPy).
-- Applied NLP sentiment analysis and machine learning to uncover trends.
+Welcome to my Portfolio — a collection of projects across Computer vision, NLP, forecasting, and applied analytics.
 
 # Projects
+
+# **Herbal Plant Identifier**
+
+https://github.com/Udodirim/herbal-plant-identifier
+
+Herbal Plant Identifier using VGG16 CNN - AI model for identifying 37 medicinal plants.
+
+<img width="3356" height="1802" alt="image" src="https://github.com/user-attachments/assets/651f296a-90a9-472a-aef8-f6ae69f5646e" />
+
+
 # **News Intelligence with NLP**
 
 https://github.com/Udodirim/News_Intelligence_with_NLP 
 
-A Streamlit-powered app that applies Natural Language Processing (NLP) to the BBC News dataset. The project classifies articles into subcategories, extracts named entities (with roles like politician, athlete, journalist), highlights media personalities, and summarizes events in April. Built using Python, Streamlit, and GPT-3.5.
+A HTML-powered web app that applies Natural Language Processing (NLP) to the BBC News dataset. The project classifies articles into subcategories, extracts named entities (with roles like politician, athlete, journalist), highlights media personalities, and summarizes events. Built using Python, HTML, and GPT-3.5.
 
 <img width="958" height="1314" alt="image" src="https://github.com/user-attachments/assets/bb359354-d3dc-4706-a7c5-d39e14f19155" />
+
+
+# **Substance abuse analytics**
+https://github.com/Udodirim/substance-abuse-analytics
+**[View Live Dashboard →](https://sd44xr.csb.app/)** 
+
+Global substance abuse mortality analytics (1990–2019) with SARIMAX/Prophet forecasting. Portfolio project — Eden Mandate AI_Tools.
+
+<img width="1363" height="896" alt="image" src="https://github.com/user-attachments/assets/151f37eb-47e2-4d9f-b8ff-6a4757edafe4" />
 
 
 # **Visa InfoBot**
@@ -56,14 +41,19 @@ It’s built to be data-agnostic: all rules and responses live in a single JSON-
 <img width="2388" height="1240" alt="image" src="https://github.com/user-attachments/assets/bb523acd-34c1-4cd5-a290-a6afc9bfa1ee" />
 
 
-# PySales Query CLI
+# **Next-Day-Bitcoin ML-Price-Prediction**
+https://github.com/Udodirim/Next-Day-Bitcoin---ML-Price-Prediction
+
+A production-ready machine learning model that predicts Bitcoin (BTC-USD) close prices using Enhanced Features XGBoost. Trained on 1 year of historical data (Feb 2025 - Feb 2026) and validated on real market data with 0.75% accuracy.
+
+
+# **PySales Query CLI**
 
 https://github.com/Udodirim/PySales_Query_CLI
 
 A command-line, modular, menu-driven application interface for querying, analyzing, and visualizing sales performance using Python, SQLite, and Matplotlib.
 
 <img width="1300" height="1084" alt="Screenshot 2025-08-19 at 18 01 35" src="https://github.com/user-attachments/assets/e0a8fca7-e4e0-495b-8d9d-2ebc05abca6b" />
-
 
 
 # **Road Accident Analytics & Risk Insights**
@@ -146,7 +136,6 @@ This project enhanced the business strategy for Sprocket Central Pty Ltd by anal
 
 
 <img width="740" height="415" alt="image" src="https://github.com/user-attachments/assets/b175cf20-142d-4701-b1ef-d874ce538428" />
-
 
 
 # **Social Media Engagement Insights**
