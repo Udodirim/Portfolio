@@ -57,7 +57,6 @@ A command-line, modular, menu-driven application interface for querying, analyzi
 
 
 # **Road Accident Analytics & Risk Insights**
-**Date: 2024**
 
 **Project Overview**
 
@@ -99,7 +98,6 @@ This project analyzed road accident data to identify high-risk areas, contributi
 
 
 # **Customer Data Analytics for Business Strategy**
-**Date: Worked on in 2023, Published October 2024**
 
 **Project Overview**
 https://docs.google.com/presentation/d/1jfCHfb8cYUvpuVohWhWk_L4bg-DvcNdex8nlD7ChumA/edit?usp=sharing 
@@ -139,7 +137,6 @@ This project enhanced the business strategy for Sprocket Central Pty Ltd by anal
 
 
 # **Social Media Engagement Insights**
-**Date: Worked on in 2023, Published October 2024**
 
 **Project Overview**
 https://docs.google.com/presentation/d/1yswt1zBfXHGtUGuYgQ1zDic5Ik_mTb6fcV5uuqM_gVc/edit?usp=sharing
