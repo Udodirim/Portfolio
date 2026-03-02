@@ -43,7 +43,8 @@ https://github.com/Udodirim/News_Intelligence_with_NLP
 
 A Streamlit-powered app that applies Natural Language Processing (NLP) to the BBC News dataset. The project classifies articles into subcategories, extracts named entities (with roles like politician, athlete, journalist), highlights media personalities, and summarizes events in April. Built using Python, Streamlit, and GPT-3.5.
 
-<img width="540" height="215" alt="Screenshot 2025-08-18 at 21 59 38" src="https://github.com/user-attachments/assets/57929278-7a26-44b8-a1d1-b9e3384dca40" />
+<img width="958" height="1314" alt="image" src="https://github.com/user-attachments/assets/bb359354-d3dc-4706-a7c5-d39e14f19155" />
+
 
 # **Visa InfoBot**
 
@@ -52,7 +53,8 @@ https://github.com/Udodirim/Visa_InfoBot
 Visa InfoBot is a conversational app that answers a simple question fast: “Do I need a visa to visit Nigeria?” Users type a country (e.g., Bolivia or How about Iran?). The bot detects the country in the sentence, tells you whether a visa is required, and—if yes—guides you through visa types (Tourist, Business, Student, Visa on Arrival).
 It’s built to be data-agnostic: all rules and responses live in a single JSON-like file (Conversation). Swap that file and the same app can serve other countries without code changes. The UI is in Streamlit (with quick-reply chips, chat bubbles, and an Admin sidebar), and there’s a CLI mode for terminal use.
 
-<img width="2548" height="1315" alt="Screenshot 2025-08-19 at 11 03 29" src="https://github.com/user-attachments/assets/a30ecba2-3056-4133-a7df-2f14a812143c" />
+<img width="2388" height="1240" alt="image" src="https://github.com/user-attachments/assets/bb523acd-34c1-4cd5-a290-a6afc9bfa1ee" />
+
 
 # PySales Query CLI
 
