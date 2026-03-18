@@ -32,9 +32,11 @@ Global substance abuse mortality analytics (1990–2019) with SARIMAX/Prophet fo
 
 # **FMCG Analytic Dashboard**
 https://github.com/Udodirim/v0-fmcg-analytics-dashboard
-**[View Live Dashboard→] (https://v0-fmcg-analytics-dashboard-tb3k-6pgv18rcf.vercel.app/)**
+**[View Live Dashboard→](https://v0-fmcg-analytics-dashboard-tb3k-6pgv18rcf.vercel.app/)**
 
 FMCG Commercial Dashboard — Production-level analytics simulating a Coca-Cola Nigeria franchise. Features executive KPIs, multi-market comparison (Lagos, Abuja, Port Harcourt, Kano), category performance charts, and time filters. Data from simulated Nielsen MarketTrack and retail audits.
+
+<img width="1294" height="1228" alt="image" src="https://github.com/user-attachments/assets/7ff72bc1-3adb-46e0-972d-93a105184ba9" />
 
 
 # **Visa InfoBot**
