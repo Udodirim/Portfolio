@@ -38,6 +38,12 @@ FMCG Commercial Dashboard — Production-level analytics simulating a Coca-Cola 
 
 <img width="1294" height="1228" alt="image" src="https://github.com/user-attachments/assets/7ff72bc1-3adb-46e0-972d-93a105184ba9" />
 
+# **Excel PLC Project**
+https://github.com/Udodirim/Excel-plc-digital-transformation
+**[View Live→](https://udodirim.github.io/Excel-plc-digital-transformation/)**
+<img width="2764" height="978" alt="image" src="https://github.com/user-attachments/assets/4716523e-d0f8-4d0d-b79e-1650db0ac240" />
+
+
 
 # **Visa InfoBot**
 
